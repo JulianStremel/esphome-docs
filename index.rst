@@ -842,6 +842,7 @@ Display Hardware Platforms
     LCD Display, components/display/lcd_display, lcd.jpg
     MAX7219 Dot Matrix, components/display/max7219digit, max7219digit.jpg
     MAX7219, components/display/max7219, max7219.jpg
+    Seven Segement, components/display/sevenseg, ../components/display/images/sevenseg/LED_Digital_display.jpg
     Nextion, components/display/nextion, nextion.jpg
     PCD8544 (Nokia 5110/ 3310), components/display/pcd8544, pcd8544.jpg
     PVVX MiThermometer, components/display/pvvx_mithermometer, ../components/sensor/images/xiaomi_lywsd03mmc.jpg
